@@ -1,0 +1,5 @@
+﻿  Source.cpp
+C:\Users\rober\Desktop\ \Studying material\3rd Semester\Kompiuterių architektūra ir tinklai\LAB\2\UTF\UTF\Source.cpp(110,22): warning C4018: '<': signed/unsigned mismatch
+C:\Users\rober\Desktop\ \Studying material\3rd Semester\Kompiuterių architektūra ir tinklai\LAB\2\UTF\UTF\Source.cpp(112,42): warning C4244: '+=': conversion from 'double' to 'unsigned __int64', possible loss of data
+C:\Users\rober\Desktop\ \Studying material\3rd Semester\Kompiuterių architektūra ir tinklai\LAB\2\UTF\UTF\Source.cpp(179,31): warning C4018: '<': signed/unsigned mismatch
+  UTF.vcxproj -> C:\Users\rober\Desktop\ \Studying material\3rd Semester\Kompiuterių architektūra ir tinklai\LAB\2\UTF\Debug\UTF.exe
